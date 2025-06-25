@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rutuja Waghchaure</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
 🔭 I’m currently working on Health AI Project<br>🌱 I’m currently learning React JS
 
