@@ -1,4 +1,4 @@
-
+<img src="./assets/background.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Rutuja Waghchaure</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
