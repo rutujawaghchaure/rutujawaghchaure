@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/rutujawaghchaure/rutujawaghchaure/blob/master/assets/Profile_Intro.gif"></p>
+
 <h1 align="center">Hi 👋, I'm Rutuja Waghchaure</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
