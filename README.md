@@ -67,16 +67,16 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujawaghchaure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujawaghchaure&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rutujawaghchaure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rutujawaghchaure&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rutujawaghchaure&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujawaghchaure&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rutujawaghchaure&icon=5&color=6" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=rutujawaghchaure&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
