@@ -1,6 +1,10 @@
 <div align="center">
 
-  <h1>RUTUJA WAGHCHAURE</h1>
+  <!-- Dynamic Typing Header (Loop with Name & Titles) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Rutuja+Waghchaure;AI%2FML+%26+Software+Developer;Full-Stack+Web+Developer;B.Tech+IT+%40+Parul+University" alt="Typing SVG" />
+  </a>
+
   <p>📍 <b>Pune, Maharashtra, India</b></p>
 
   <!-- Contact & Social Badges -->
@@ -17,11 +21,6 @@
   <a href="https://github.com/rutujawaghchaure" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-rutujawaghchaure-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <br/><br/>
-
-  <!-- Dynamic Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=AI%2FML+Developer;Full-Stack+Web+Developer;B.Tech+IT+%40+Parul+University" alt="Typing SVG" />
 
 </div>
 
