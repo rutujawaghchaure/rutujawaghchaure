@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header (Loop with Name & Titles) -->
+  <!-- Single Line Dynamic Typing Loop for Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Rutuja+Waghchaure;AI%2FML+%26+Software+Developer;Full-Stack+Web+Developer;B.Tech+IT+%40+Parul+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Rutuja+Waghchaure" alt="Typing SVG" />
   </a>
 
   <p>📍 <b>Pune, Maharashtra, India</b></p>
