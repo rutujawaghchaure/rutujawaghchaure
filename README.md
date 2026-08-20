@@ -74,10 +74,10 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **SnapClass** | AI-based attendance system using face recognition, dlib embedding extraction, and SVM classification[cite: 1]. | Python, dlib, Face Recognition, SVM |
-| **Bharat Yatra** | Smart trip planner application recommending travel destinations based on user preferences and dataset insights[cite: 1]. | Python, Flask, Pandas, TF-IDF |
-| **AI Gym Trainer** | Interactive fitness web app tracking workout posture, joint angles, and reps using computer vision[cite: 1]. | Python, MediaPipe, OpenCV, Streamlit |
-| **Smart Healthcare System** | Web-based healthcare management platform connecting patients, doctors, and admins for appointment booking[cite: 1]. | React.js, Node.js, Python |
+| **SnapClass** | AI-based attendance system using face recognition, dlib embedding extraction, and SVM classification. | Python, dlib, Face Recognition, SVM |
+| **Bharat Yatra** | Smart trip planner application recommending travel destinations based on user preferences and dataset insights. | Python, Flask, Pandas, TF-IDF |
+| **AI Gym Trainer** | Interactive fitness web app tracking workout posture, joint angles, and reps using computer vision. | Python, MediaPipe, OpenCV, Streamlit |
+| **Smart Healthcare System** | Web-based healthcare management platform connecting patients, doctors, and admins for appointment booking. | React.js, Node.js, Python |
 
 ---
 
