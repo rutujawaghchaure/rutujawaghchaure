@@ -41,8 +41,8 @@
 ### 💼 Work Experience
 
 #### **AI/ML Intern** | *Enlighten Infosystems* `(Feb 2026 - May 2026)`
-- Developed **"Bharat Yatra"**, a travel recommendation system using Machine Learning algorithms to suggest optimal destinations[cite: 1].
-- Implemented and optimized recommendation logic to improve prediction accuracy and user engagement[cite: 1].
+- Developed **"Bharat Yatra"**, a travel recommendation system using Machine Learning algorithms to suggest optimal destinations.
+- Implemented and optimized recommendation logic to improve prediction accuracy and user engagement.
 
 ---
 
@@ -74,10 +74,10 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **SnapClass** | AI-based attendance system using face recognition, dlib embedding extraction, and SVM classification[cite: 1]. | Python, dlib, Face Recognition, SVM[cite: 1] |
-| **Bharat Yatra** | Smart trip planner application recommending travel destinations based on user preferences and dataset insights[cite: 1]. | Python, Flask, Pandas, TF-IDF[cite: 1] |
-| **AI Gym Trainer** | Interactive fitness web app tracking workout posture, joint angles, and reps using computer vision[cite: 1]. | Python, MediaPipe, OpenCV, Streamlit[cite: 1] |
-| **Smart Healthcare System** | Web-based healthcare management platform connecting patients, doctors, and admins for appointment booking[cite: 1]. | React.js, Node.js, Python[cite: 1] |
+| **SnapClass** | AI-based attendance system using face recognition, dlib embedding extraction, and SVM classification[cite: 1]. | Python, dlib, Face Recognition, SVM |
+| **Bharat Yatra** | Smart trip planner application recommending travel destinations based on user preferences and dataset insights[cite: 1]. | Python, Flask, Pandas, TF-IDF |
+| **AI Gym Trainer** | Interactive fitness web app tracking workout posture, joint angles, and reps using computer vision[cite: 1]. | Python, MediaPipe, OpenCV, Streamlit |
+| **Smart Healthcare System** | Web-based healthcare management platform connecting patients, doctors, and admins for appointment booking[cite: 1]. | React.js, Node.js, Python |
 
 ---
 
